@@ -1,0 +1,17 @@
+body{background: black;
+color: lightblue;
+font-size: 20pt;
+
+font family: 'Montserrat', sans-serif;}
+
+nav li {display: inline-block;
+Border:5px black;
+background: black;
+margin: 5px;
+padding: 30px; }
+
+a{color: lightblue;
+font-weight: bold;
+text-decoration: none;
+}
+a:hover {color: purple;}
